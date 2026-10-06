@@ -4,13 +4,15 @@
 
 **CS student · Full-stack projects · Open source**
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1200&color=7F9CC6&center=true&vCenter=true&width=480&height=45&lines=Building+things.+Reading+the+source.;Java%2C+web+apps%2C+and+questions+that+multiply.)](https://github.com/fatima-qaisar)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1200&color=7F9CC6&center=true&vCenter=true&width=720&height=55&lines=Building+things.+Reading+the+source.;There's+a+difference+between+knowing+the+syntax+and+knowing+the+system.)](https://github.com/fatima-qaisar)
 
 [Repositories](https://github.com/fatima-qaisar?tab=repositories)
 
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=12,14,18&section=header" width="70%" />
+
 </div>
 
-I'm a fourth-semester CS student at COMSATS Lahore and a web developer. I work across the stack, mostly with Java, JavaScript, TypeScript, and Python. Beyond application development, I'm learning more about web servers, HTTP, and concurrency through open-source work with Apache Tomcat.
+I'm a fourth-semester CS student at COMSATS Lahore and a web developer. I work across the stack, mostly with Java, JavaScript, TypeScript, and Python. I'm also interested in what happens beneath the application layer, particularly web servers, HTTP, and concurrency, which I've been exploring while contributing to Apache Tomcat.
 
 ### Things I've built
 
@@ -22,32 +24,40 @@ I'm a fourth-semester CS student at COMSATS Lahore and a web developer. I work a
 
 Currently testing how many stacks I can learn before something forces me to pick a lane.
 
-I'm also looking for undergraduate internships and research opportunities in AI/ML and software systems.
+I'm also looking for internship and undergraduate research opportunities in AI/ML and software systems.
 
 ### Toolbox
 
+**Languages**  
 `Java` `Python` `JavaScript` `TypeScript` `SQL`
 
-`React` `FastAPI` `Node.js` `Express` `MongoDB` `JavaFX`
+**Frameworks & libraries**  
+`React` `FastAPI` `Express` `JavaFX` `JUnit`
 
-`Git` `Docker` `Maven` `JUnit`
+**Databases**  
+`MongoDB` `Microsoft SQL Server`
+
+**Tools & runtime**  
+`Git` `Docker` `Maven` `Node.js`
 
 ### GitHub activity
 
 <div align="center">
 
 <a href="https://github.com/fatima-qaisar">
-  <img src="https://github-stats-extended.vercel.app/api?username=fatima-qaisar&amp;show_icons=true&amp;theme=transparent&amp;hide_border=true&amp;hide_rank=true&amp;title_color=7F9CC6&amp;icon_color=7F9CC6" alt="Fatima's public GitHub activity statistics" width="460" />
+  <img src="https://github-stats-extended.vercel.app/api?username=fatima-qaisar&show_icons=true&theme=transparent&hide_border=true&hide_rank=true&title_color=7F9CC6&icon_color=7F9CC6" alt="Fatima's public GitHub activity statistics" width="460" />
 </a>
 
 <a href="https://github.com/fatima-qaisar">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fatima-qaisar&amp;bg_color=18202D&amp;color=BAC5D6&amp;title_color=BAC5D6&amp;line=8EAACD&amp;point=B5A4D4&amp;area=true&amp;area_color=8EAACD&amp;hide_border=true&amp;grid=false&amp;radius=12&amp;height=260&amp;days=31&amp;custom_title=The%20past%20month" alt="Fatima's GitHub contribution activity over the past 31 days" width="800" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fatima-qaisar&bg_color=00000000&color=BAC5D6&title_color=7F9CC6&line=8EAACD&point=B5A4D4&area=true&area_color=8EAACD&hide_border=true&grid=false&radius=12&height=260&days=31&custom_title=The%20past%20month" alt="Fatima's GitHub contribution activity over the past 31 days" width="800" />
 </a>
 
 </div>
 
----
-
 <div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=12,14,18&section=footer" width="70%" />
+
 <sub>When I'm not coding, I'm probably crocheting something.</sub>
+
 </div>

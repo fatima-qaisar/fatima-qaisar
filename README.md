@@ -17,9 +17,9 @@
 
 ---
 
-I'm a fourth-semester CS student at COMSATS Lahore and a full-stack developer (MERN). I work across the stack, mostly in Java, JavaScript, TypeScript, and Python, and I'm drawn to what sits beneath the application layer: web servers, HTTP, and concurrency. In my free time, I triage Coverity static analysis findings for Apache Tomcat.
+I'm a fourth-semester CS student at COMSATS Lahore and a full-stack developer. I work across the stack, mostly in Java, JavaScript, TypeScript, and Python, and I'm drawn to what sits beneath the application layer: web servers, HTTP, and concurrency. In my free time, I triage Coverity static analysis findings for Apache Tomcat.
 
-🔎 **Looking for:** internships and undergraduate research in AI/ML and software systems.
+🔎 **Looking for:** internships and undergraduate research in AI/ML, backend engineering and software systems.
 
 ## 🚀 Things I've built
 

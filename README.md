@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=12,20,24&section=header&text=Hi,%20I%27m%20Fatima&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=CS%20student%20%C2%B7%20Full-stack%20developer%20%C2%B7%20Apache%20Tomcat%20contributor&descSize=16&descAlignY=58" alt="Hi, I'm Fatima" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=12,20,24&section=header&text=Hi,%20I%27m%20Fatima&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=CS%20student%20%C2%B7%20Full-stack%20developer&descSize=16&descAlignY=58" alt="Hi, I'm Fatima" width="100%" />
 
 <a href="https://github.com/fatima-qaisar">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=7F9CC6&center=true&vCenter=true&width=520&lines=Web+servers+%2B+HTTP+%2B+concurrency;Building+full-stack+projects;Open+source+%40+Apache+Tomcat;Looking+for+AI%2FML+internships" alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=1400&color=7F9CC6&center=true&vCenter=true&width=460&lines=Building+things.+Reading+the+source.;Simplicity+is+prerequisite+for+reliability.+%E2%80%94+Dijkstra" alt="Typing animation" />
 </a>
 
 <br><br>
@@ -15,9 +15,7 @@
 
 ---
 
-I'm a fourth-semester CS student at COMSATS Lahore. I build full-stack apps in Java, JavaScript, TypeScript, and Python, and I'm drawn to what sits beneath the application layer: web servers, HTTP, and concurrency.
-
-🔧 **Open source:** In my free time, I triage Coverity static analysis findings for Apache Tomcat.
+I'm a fourth-semester CS student at COMSATS Lahore and a full-stack developer (MERN). I work across the stack, mostly in Java, JavaScript, TypeScript, and Python, and I'm drawn to what sits beneath the application layer: web servers, HTTP, and concurrency. In my free time, I triage Coverity static analysis findings for Apache Tomcat.
 
 🔎 **Looking for:** internships and undergraduate research in AI/ML and software systems.
 
@@ -29,8 +27,7 @@ I'm a fourth-semester CS student at COMSATS Lahore. I build full-stack apps in J
 
 ## 🔭 Currently exploring
 
-- How web servers handle HTTP and concurrency, through my Tomcat work
-- [AI/ML topic or course you're into]
+- HTTP and concurrency in web servers
 - Testing how many stacks I can learn before something forces me to pick a lane
 
 ## 🧰 Toolbox

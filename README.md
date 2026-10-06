@@ -2,14 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=12,20,24&section=header&text=Hi,%20I%27m%20Fatima&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=CS%20student%20%C2%B7%20Full-stack%20developer&descSize=16&descAlignY=58" alt="Hi, I'm Fatima" width="100%" />
 
-<a href="https://github.com/fatima-qaisar">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1400&color=7F9CC6&center=true&vCenter=true&width=440&lines=Simplicity+is+prerequisite+for+reliability." alt="Typing animation" />
-</a>
-<br>
-<sub>Edsger W. Dijkstra</sub>
-
-<br><br>
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/fatima-qaisar-633187397)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fatima79176985@email.com)
 
